@@ -1,0 +1,24 @@
+.place__tittle {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    margin: 0;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+@media (max-width: 1023px) {
+    .place__tittle {
+        max-width: calc(100% - 13px);
+        font: normal 900 42px/46px Inter, Arial, Helvetica, sans-serif;
+    }
+}
+
+@media (max-width: 767px) {
+    .place__tittle {
+        font: normal 900 32px/35px Inter, Arial, Helvetica, sans-serif;
+        margin: 0 16px 32px 16px;
+        flex-basis: 0;
+    }
+}

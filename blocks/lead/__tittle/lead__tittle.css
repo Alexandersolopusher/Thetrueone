@@ -1,0 +1,27 @@
+.lead__tittle {
+    max-width: 720px;
+    font: normal 900 96px/93px Inter, Arial, Helvetica, sans-serif;
+    margin: 48px 0 35px 1px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+@media (max-width: 1279px) {
+    .lead__tittle {
+        margin: 48px 0 35px 0;
+    }
+}
+
+@media (max-width: 1023px) {
+    .lead__tittle {
+        margin: 48px 0 35px 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .lead__tittle {
+        font: normal 900 40px/44px Inter, Arial, Helvetica, sans-serif;
+        width: calc(100% - 32px);
+        margin: 48px 0 16px 0;
+    }
+}

@@ -1,0 +1,4 @@
+.intro__text-container {
+    display: flex;
+    max-width: 690px;
+}

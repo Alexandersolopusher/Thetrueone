@@ -1,0 +1,11 @@
+.page {
+    background-color: #2A2C2F;
+    text-rendering: optimizeLegibility;
+    padding-top: 30px;
+    padding-bottom: 24px;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    margin: 0 auto;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+}

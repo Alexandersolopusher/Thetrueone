@@ -1,0 +1,15 @@
+.lead__capiton-container {
+    align-self: flex-start;
+}
+
+@media (max-width: 1023px) {
+    .lead__capiton-container {
+        margin-left: 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    .lead__capiton-container {
+        margin-left: 16px;
+    }
+}

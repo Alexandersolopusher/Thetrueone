@@ -1,0 +1,21 @@
+.cover__subtittle {
+    color: #FFFDFD;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    z-index: 2;
+    margin: 0 auto;
+    max-width: 360px;
+    max-height: 66px;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+@media (max-width: 767px) {
+    .cover__subtittle {
+        font-size: 14px;
+        line-height: 16px;
+        max-width: 288px;
+        max-height: 48px;
+    }
+}

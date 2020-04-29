@@ -1,0 +1,22 @@
+.lead__capiton {
+    align-self: flex-start;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 10px;
+    line-height: 14px;
+    margin: 8px 0 0 0;
+    letter-spacing: 0.15em;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+@media (max-width: 1023px) {
+    .lead__capiton {
+        margin-left: 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    .lead__capiton {
+        margin-left: 16px;
+    }
+}
