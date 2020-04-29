@@ -2,7 +2,7 @@
 @import url(../lead/__subtittle/lead__subtittle.css);
 @import url(../lead/__image/lead__image.css);
 @import url(../lead/__capiton/lead__capiton.css);
-@import url(../lead/__capiton-container/lead__capiton-cotainer.css);
+
 .lead {
     max-width: 985px;
     display: flex;
