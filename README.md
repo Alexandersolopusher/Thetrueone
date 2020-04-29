@@ -6,7 +6,7 @@
 Заинтересовал блок Header. При возможности бы доработал "залипание" ссылок на смену языка. Но без js не обойтись.
 В дальнейшем хочу добавить тегов, для различных случаев. 
 
-Ссылка на GithubPages : https://alexandersolopusher.github.io/3d-project/
+Ссылка на GithubPages : https://alexandersolopusher.github.io/Thetrueone/
 
 
 
